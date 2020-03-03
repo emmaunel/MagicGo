@@ -1,10 +1,12 @@
 # MagicGo
 
 boop boop magic stuff poof poof
+
 egakcap ruoy gnisu stcejorp no sdnammoc nur ot ytilibA
+
 retal nialpxe annog m'i
 
-
+```
               _,._      
   .||,       /_ _\\     
  \.`',/      |'L'| |    
@@ -25,6 +27,7 @@ retal nialpxe annog m'i
    ||         |_|   ccc/
    ||        ccc/       
    ||                hjm
+```
 
 
  ____________________________________________________________________________
